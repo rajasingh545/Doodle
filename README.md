@@ -6,7 +6,7 @@ Clone the git repo into your machine and insall all the npm dependencies package
 ```
 npm install or npm i
 ```
-to run the application 
+to run the application use the start command.
 ```
 npm start
 ```
